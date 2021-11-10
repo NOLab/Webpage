@@ -1,4 +1,12 @@
-# 2021
+# Current Members:
+
+Nicolas Olivier
+
+
+
+# Past Members
+
+## 2021
 
 - Hadjer Boukhatem (M2 Sorbonne University)
 
@@ -8,9 +16,10 @@
 
 - Hiba Belkadi (Lab Rotation PhD Track - IPP)
 
-# 2020
+## 2020
 
 - Romin Durand (ENSTA - PRE 2A) 
+
 Project: Modélisation par différences finies en microscopie non linéaire.
 
 - Amaury Paveyranne (IOGS - 2A) 
