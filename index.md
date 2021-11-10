@@ -1,4 +1,4 @@
-## Welcome My Website
+## Welcome !
 
 This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics and Biosciences](https://portail.polytechnique.edu/lob/fr).
 
