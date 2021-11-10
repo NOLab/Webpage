@@ -6,7 +6,7 @@ If you're looking for my code please go [here](https://github.com/NOLab)
 
 To find my publications [go here](https://scholar.google.com/citations?user=1Ro9PnQAAAAJ)
 
-To know more about my  research interrests [right this way](https://github.com/NOLab/Hello-World/blob/gh-pages/research.md)
+To know more about my  research interrests [right this way](https://nolab.github.io/Hello-World/research.html)
 
 ### Markdown
 
