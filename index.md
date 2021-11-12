@@ -13,3 +13,5 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 -To know more about my research interrests [right this way](https://nolab.github.io/Webpage/research.html)
 
 -[To know more about the current and past members of the team](https://nolab.github.io/Webpage/alumni.html)
+
+-You can find me on Twitter [@niko_olivier](https://twitter.com/niko_olivier)
