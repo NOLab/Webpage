@@ -18,4 +18,6 @@ Coherent nonlinear microscopy techniques such as Second harmonic generation (SHG
 
 ## Super-resolution
 
-Resolution doubling in 3D-STORM imaging through improved buffers
+[Resolution doubling in 3D-STORM imaging through improved buffers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069004) N. Olivier, D. Keller, P. Gönczy, S. Manley PloS one(2013)
+
+[Simple buffers for 3D STORM microscopy](https://www.osapublishing.org/fulltext.cfm?uri=boe-4-6-885)  N Olivier, D Keller, VS Rajan, P Gönczy, S Manley Biomedical optics express (2013)
