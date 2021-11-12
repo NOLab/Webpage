@@ -23,3 +23,5 @@ Nicolas Olivier
 Project: Modélisation par différences finies en microscopie non linéaire.
 
 - Amaury Paveyranne (IOGS - 2A) 
+
+Project: Modeling Nonlinear Coherent Microscopy with Python
