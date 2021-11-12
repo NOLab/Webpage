@@ -11,6 +11,7 @@ Nicolas Olivier
 - Hadjer Boukhatem (M2 Sorbonne University)
 
 ![](https://nolab.github.io/Webpage/images/Hadjer.png)
+
 Project: Novel Approaches to Multicolor 3D-STORm Microscopy
 
 
