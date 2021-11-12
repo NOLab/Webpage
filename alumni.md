@@ -10,7 +10,7 @@ Nicolas Olivier
 
 - Hadjer Boukhatem (M2 Sorbonne University)
 
-![](https://nolab.github.io/Hello-World/images/Hadjer.png)
+![](https://nolab.github.io/Webpage/images/Hadjer.png)
 
 - Dorian Noury (3A - X)
 
