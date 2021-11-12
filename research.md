@@ -1,6 +1,6 @@
 I have 2 main research interrests: Super resolution Microscpy and nonlinear microscopy
 
-### Super-Resolution Miroscopy by Single Molecule Localization
+# Super-Resolution Miroscopy by Single Molecule Localization
 
 Single Molecule Localization Microscopy is a powerfull method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different tehcnical developments: 
 
@@ -10,7 +10,7 @@ Although there has been steady progress in multiloro imaging since the inception
 ## Tissue Imaging
 Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by  combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-aquisition methods.
 
-### Coherent Nonlinear Microscopy
+# Coherent Nonlinear Microscopy
 Coherent nonlinear microscopy techniques such as Second harmonic generation (SHG) or Third-Harmonic generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interrest. One  
 
 
@@ -18,6 +18,9 @@ Coherent nonlinear microscopy techniques such as Second harmonic generation (SHG
 
 ## Super-resolution
 
-[Resolution doubling in 3D-STORM imaging through improved buffers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069004) N. Olivier, D. Keller, P. Gönczy, S. Manley PloS one(2013)
+[Resolution doubling in 3D-STORM imaging through improved buffers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069004) N. Olivier, D. Keller, P. Gönczy, S. Manley (2013)
 
-[Simple buffers for 3D STORM microscopy](https://www.osapublishing.org/fulltext.cfm?uri=boe-4-6-885)  N Olivier, D Keller, VS Rajan, P Gönczy, S Manley Biomedical optics express (2013)
+[Simple buffers for 3D STORM microscopy](https://www.osapublishing.org/fulltext.cfm?uri=boe-4-6-885)  N Olivier, D Keller, VS Rajan, P Gönczy, S Manley (2013)
+
+## Coherent Nonlinear Microscopy
+[Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) J. Morizet, G. Sartorello, N. Dray, C. Stringari, E. Beaurepaire, N. Olivier (2013)
