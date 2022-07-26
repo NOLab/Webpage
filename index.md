@@ -3,7 +3,7 @@
 This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics and Biosciences](https://portail.polytechnique.edu/lob/fr).
 
 
-![Image](https://nolab.github.io/Webpage/2021-06-23-CF750-VECTAv3.png)
+![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
 
 -If you're looking for my code please go [here](https://github.com/NOLab)
