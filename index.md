@@ -5,6 +5,8 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 ![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
+3-color STORM  image of  $\alpha$-Tubulin (CF-750),  Actin (Alexa-647), \& Clathrin (CF-568) in a newly optimized buffer. See 
+[Vaky's paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
 
 -If you're looking for my code please go [here](https://github.com/NOLab)
 
