@@ -2,18 +2,22 @@
 
 This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics and Biosciences](https://portail.polytechnique.edu/lob/fr).
 
+# News
+2022-05-20
 
 ![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
-3-color STORM  image of  $\alpha$-Tubulin (CF-750),  Actin (Alexa-647), \& Clathrin (CF-568) in a newly optimized buffer. See 
+- 3-color STORM  image of  $\alpha$-Tubulin (CF-750),  Actin (Alexa-647), \& Clathrin (CF-568) in a newly optimized buffer. See 
 [Vaky's paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
 
--If you're looking for my code please go [here](https://github.com/NOLab)
 
--To find my publications [go here](https://scholar.google.com/citations?user=1Ro9PnQAAAAJ)
 
 -To know more about my research interrests [right this way](https://nolab.github.io/Webpage/research.html)
 
 -[To know more about the current and past members of the team](https://nolab.github.io/Webpage/alumni.html)
 
+-To find my publications [go here](https://scholar.google.com/citations?user=1Ro9PnQAAAAJ)
+
 -You can find me on Twitter [@niko_olivier](https://twitter.com/niko_olivier)
+
+-If you're looking for my code please go [here](https://github.com/NOLab)
