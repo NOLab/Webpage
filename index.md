@@ -2,15 +2,19 @@
 
 This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics and Biosciences](https://portail.polytechnique.edu/lob/fr).
 
+* * *
+
 # News
-2022-05-20
+ - 2022-05-20 
+
+New paper: we present a new optimized buffer recipe for multicolor STORM imaging.  See [Vaky's paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
 
 ![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
-- 3-color STORM  image of  $\alpha$-Tubulin (CF-750),  Actin (Alexa-647), \& Clathrin (CF-568) in a newly optimized buffer. See 
-[Vaky's paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
+3-color STORM  image of  alpha-Tubulin (CF-750),  Actin (Alexa-647), & Clathrin (CF-568) in our newly optimized buffer.
 
-
+* * *
+* * * 
 
 -To know more about my research interrests [right this way](https://nolab.github.io/Webpage/research.html)
 
