@@ -1,8 +1,10 @@
+# Current Research Interrests:
+
 I have 2 main research interrests: **Super Resolution (SR) Microscopy** and **Nonlinear (NL) Microscopy**
 
 # Super-Resolution Miroscopy by Single Molecule Localization
 
-Single Molecule Localization Microscopy is a powerfull method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different tehcnical developments: 
+Single Molecule Localization Microscopy (**SMLM**) is a powerfull method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different tehcnical developments: 
 
 ## Multicolor Imaging
 Although there has been steady progress in multicolor imaging since the inception of the method, it is still not straightforward to perform high quality multicolor 3D imaging. Our aim is to focus on the chemical buffers used to induce the stochastic blinking in order to achieve improve multicolor imaging. For recent progress on the topic, see **[1]**.
