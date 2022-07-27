@@ -1,19 +1,19 @@
-# Current Research Interrests:
+# Current Research Interests:
 
-I have 2 main research interrests: **Super Resolution (SR) Microscopy** and **Nonlinear (NL) Microscopy**
+I have 2 main research interests: **Super Resolution (SR) Microscopy** and **Nonlinear (NL) Microscopy**
 
 # Super-Resolution Miroscopy by Single Molecule Localization
 
-Single Molecule Localization Microscopy (**SMLM**) is a powerfull method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different tehcnical developments: 
+Single Molecule Localization Microscopy (**SMLM**) is a powerful method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different technical developments: 
 
 ## Multicolor Imaging
 Although there has been steady progress in multicolor imaging since the inception of the method, it is still not straightforward to perform high quality multicolor 3D imaging. Our aim is to focus on the chemical buffers used to induce the stochastic blinking in order to achieve improve multicolor imaging. For recent progress on the topic, see **[1]**.
 
 ## Tissue Imaging
-Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by  combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-aquisition methods.
+Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-acquisition methods.
 
 # Coherent Nonlinear Microscopy
-Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interrest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[4]**
+Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[4]**
 
 
 # References:
