@@ -4,7 +4,7 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 * * *
 
-# News
+# News:
  - 2022-05-20 
 
 New paper: we present a new optimized buffer recipe for multicolor STORM imaging.  See [Vaky's paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
