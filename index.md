@@ -16,7 +16,7 @@ New paper: we present a new optimized buffer recipe for multicolor STORM imaging
 * * *
 * * * 
 
--To know more about my research interrests [right this way](https://nolab.github.io/Webpage/research.html)
+-To know more about my research interests, [right this way](https://nolab.github.io/Webpage/research.html)
 
 -[To know more about the current and past members of the team](https://nolab.github.io/Webpage/alumni.html)
 
