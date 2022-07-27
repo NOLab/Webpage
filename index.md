@@ -25,3 +25,5 @@ New paper: we present a new optimized buffer recipe for multicolor STORM imaging
 -You can find me on Twitter [@niko_olivier](https://twitter.com/niko_olivier)
 
 -If you're looking for my code please go [here](https://github.com/NOLab)
+
+-Prospective students who consider joining the lab should check out [the projects we offer](https://nolab.github.io/Webpage/alumni/joinus.html)
