@@ -10,8 +10,8 @@
 ## 2022
 
 - Vaky Abdelsayed (Bachelor Thesis, IPP)
-Project: OPtimized buffers for Multicolor STORM
-See [This paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1)
+
+Project: Optimized buffers for Multicolor STORM - See [This paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1)
 
 - Dorian Noury (Master Thesis - IPP) [co-supervised with Roxane Lestini @ LOB]
 
@@ -20,12 +20,11 @@ Project: Etude de la Dynamique de Replication Chez une Archee Polyploide a l'ech
 
 ## 2021
 
-- Hadjer Boukhatem (M2 Sorbonne University)
+- Hadjer Boukhatem (Master Thesis -  Sorbonne University)
 
 <!--  ![](https://nolab.github.io/Webpage/images/Hadjer.png) -->
 
-Project: Novel Approaches to Multicolor 3D-STORM Microscopy
-See [This paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1)
+Project: Novel Approaches to Multicolor 3D-STORM Microscopy - See [This paper](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1)
 
 
 - Dorian Noury (3A - X) [co-supervised with Roxane Lestini @ LOB]
@@ -34,7 +33,7 @@ Project: Etude de la Dynamique de Replication Chez une Archee Polyploide a l'ech
 
 - Hiba Belkadi (Lab Rotation PhD Track - IPP)
 
-Project: QUantitative Evaluation of the Blinking of Dyes as a Function of their Chemical Envireonment
+Project: Quantitative Evaluation of the Blinking of Dyes as a Function of their Chemical Environement
 
 ## 2020
 
