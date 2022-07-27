@@ -1,4 +1,3 @@
-* * * 
 # Research Projects
 We are typically looking for Master student to work on the following projects (6 month), but undergraduate students are also welcomed to apply:
 
