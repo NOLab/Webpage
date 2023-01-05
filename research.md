@@ -19,6 +19,14 @@ In collaboration with Roxane Lestini @ LOB, who previously [used live-SIM micros
 Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6]**
 
 
+# Other Interrests
+
+## Expansion Microscopy
+[Kate](https://nolab.github.io/Webpage/alumni.html) is currently trying to adapt the [U-EXM protocol](https://www.nature.com/articles/s41592-018-0238-1) for Haloferax Volcanii.
+
+## Exptended Depth-of-Field Imaging
+I am interrested in different approaches to control the depth-of-field, both on the illumination side and detection side.
+
 # References:
 
 ## Super-resolution
@@ -31,7 +39,7 @@ Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG
 
 4 - [Simple buffers for 3D STORM microscopy](https://www.osapublishing.org/fulltext.cfm?uri=boe-4-6-885)  Nicolas Olivier, Debora Keller, Vinoth S. Rajan, Pierre Gönczy, & Suliana Manley (2013)
 
-5 -[BrdU Incorporation and Labeling of Nascent DNA to Investigate Archaeal Replication Using Super-Resolution Imaging](https://hal.archives-ouvertes.fr/hal-03833442/)
+5 - [BrdU Incorporation and Labeling of Nascent DNA to Investigate Archaeal Replication Using Super-Resolution Imaging](https://hal.archives-ouvertes.fr/hal-03833442/)
 Roxane Lestini,  Yoann Collien,  Debora Olivier,  Nicolas Olivier, & Hannu Myllykallio (2022). Now also [peer-reviewed  (paywalled)](https://link.springer.com/protocol/10.1007/978-1-0716-2445-6_29)
 
 ## Coherent Nonlinear Microscopy
