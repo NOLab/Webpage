@@ -12,7 +12,7 @@ We are typically looking for Master student to work on the following projects (6
 
 - **Title: Modeling Coherent Nonlinear Microscopy (THG,SHG)**
 - This project will be co-supervized by [Marie-Claire Schanne-Klein](https://portail.polytechnique.edu/lob/en/marie-claire-schanne-klein)
-- Funding Options: No funding is guaranteed, so the students would be expected to apply to the IPP graduate school fellowships
+- Funding Options: No funding is guaranteed, so the students would be expected to apply to the IPP graduate school fellowships. PhD Track students are welcome: [www.ip-paris.fr/education/phd-track/phd-track-physique](https://www.ip-paris.fr/education/phd-track/phd-track-physique)
 
 Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) relies on the intrinsic nonlinear properties of biological tissues to provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or zebrafish embryo to name a few studied in the Lab). However this comes at a cost: coherent nonlinear methods have highly non-trivial contrast mechanisms, and current modeling approaches [1] cannot reproduce some experimental measurements, preventing accurate quantification of the images. We recently demonstrated a new approach for THG microscopy based on the Finite Difference time-domain method [2], and the goal of this PhD is to develop this method to apply it more broadly to other types of nonlinear microscopy, and to further improve the method by taking into account more complex optical properties such as non-diagonal tensor elements.
 
