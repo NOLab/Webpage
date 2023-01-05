@@ -12,15 +12,18 @@ Although there has been steady progress in multicolor imaging since the inceptio
 ## Tissue Imaging
 Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-acquisition methods.
 
+## Archaea Imaging
+In collaboration with Roxane Lestini @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understandinf of the DNA replication precess to the nanoscale. See 
+
 # Coherent Nonlinear Microscopy
-Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[5]**
+Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6]**
 
 
 # References:
 
 ## Super-resolution
 
-1 - [An Optimized Buffer for Repeatable Multicolor STORM](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) Vaky Abdelsayed, Hadjer Boukhatem, & Nicolas Olivier (2022) Now also [in ACS nano (paywalled)](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c01249)
+1 - [An Optimized Buffer for Repeatable Multicolor STORM](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) Vaky Abdelsayed, Hadjer Boukhatem, & Nicolas Olivier (2022). Now also [peer-reviewed  (paywalled)](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c01249)
 
 2 - [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550) Hadjer Boukhatem, Beatrice Durel, Manon Raimbault, Audrey Laurent, and Nicolas Olivier  (2023)
 
@@ -28,5 +31,8 @@ Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG
 
 4 - [Simple buffers for 3D STORM microscopy](https://www.osapublishing.org/fulltext.cfm?uri=boe-4-6-885)  Nicolas Olivier, Debora Keller, Vinoth S. Rajan, Pierre Gönczy, & Suliana Manley (2013)
 
+5 -[BrdU Incorporation and Labeling of Nascent DNA to Investigate Archaeal Replication Using Super-Resolution Imaging](https://hal.archives-ouvertes.fr/hal-03833442/)
+Roxane Lestini,  Yoann Collien,  Debora Olivier,  Nicolas Olivier, & Hannu Myllykallio (2022). Now also [peer-reviewed  (paywalled)](https://link.springer.com/protocol/10.1007/978-1-0716-2445-6_29)
+
 ## Coherent Nonlinear Microscopy
-5 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
+6 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
