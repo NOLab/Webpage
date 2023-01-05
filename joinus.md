@@ -2,6 +2,7 @@
 We are typically looking for Master student to work on the following projects (6 month), but undergraduate students are also welcomed to apply:
 
 - **Robust in-situ PSF estimation**: 
+- **Extended Depth of Field for nonlinear and super-resolved microscopy**: 
 - **Rational optimization of STORM buffers based on photophysical parameters** 
 - **Numerical Modelling of Coherent nonlinear microscopy**: (see also PhD offer)
 
@@ -24,5 +25,5 @@ Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG
 
 * * * 
 # Post-doc 
-- We sadly do not have any funding currently for post-doc positions.
+- We sadly do not have any funding currently for post-doc positions, but anyone wishing to apply for postdoctoral fellowship related to the group's interests is welcome to contact me
 
