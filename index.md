@@ -12,7 +12,7 @@ Vaky's prepint from May is now [published at ACS Nano.](https://pubs.acs.org/doi
 Hadjer's work from 2021 (with some significant help from Beatrice Durel, Manon  Raimbault & 
 Audrey Laurent @ Necker) on testing Slowfade Diamond for STORM imaging has finally been published in Biomedical Optics Express: [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550)
 
-- 2022-11-15 Gooddye Twitter, Welcome Mastodon !
+- 2022-11-15 Goodbye Twitter, Welcome Mastodon !
 
  - 2022-05-20 
 
