@@ -7,10 +7,10 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 # News:
 - 2023-01-05 Paper(s) accepted :)
 
-Vaky's prepint from May is now [published at ACS Nano.](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01249)
+Vaky's prepint from May is now [published in a Peer-reveiwed Journal](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01249)
 
 Hadjer's work from 2021 (with some significant help from Beatrice Durel, Manon  Raimbault & 
-Audrey Laurent @ Necker) on testing Slowfade Diamond for STORM imaging has finally been published in Biomedical Optics Express: [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550)
+Audrey Laurent @ Necker in 2022) on testing Slowfade Diamond for STORM imaging has finally been published: [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550)
 
 - 2022-11-15
  Goodbye Twitter, Welcome Mastodon !
