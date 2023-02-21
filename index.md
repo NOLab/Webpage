@@ -11,6 +11,9 @@ Vaky's preprint from May 2022 is now [published in a Peer-reviewed Journal](http
 
 Hadjer's work from 2021 (with some significant help from Beatrice Durel, Manon  Raimbault & Audrey Laurent @ Necker in 2022) on testing Slowfade Diamond for STORM imaging has finally been published: [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550)
 
+-2022-12-22 New Preprint: [Spatial modeling of telomere intra-nuclear distribution reveals non-random organization that varies during cell cycle and depends on LAP2 and BAF](https://www.biorxiv.org/content/10.1101/2022.12.22.521599v1.abstract) Debora Keller, Sonia Stinus, David Umlauf, Edith Gourbeyre, Eric Biot, Nicolas Olivier, Pierre Mahou, Emmanuel Beaurepaire, Philippe Andrey & Laure Crabbe
+
+
 - 2022-11-15
  Goodbye Twitter, Welcome Mastodon !
 
