@@ -29,9 +29,9 @@ Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG
 
 2 - [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550) Hadjer Boukhatem, Beatrice Durel, Manon Raimbault, Audrey Laurent, and Nicolas Olivier  (2023)
 
-[3] [Harmonic microscopy of isotropic and anisotropic microstructure of the human cornea](https://www.osapublishing.org/vjbo/fulltext.cfm?uri=oe-18-5-5028) N. Olivier, et al. (2010)
+3 - [Harmonic microscopy of isotropic and anisotropic microstructure of the human cornea](https://www.osapublishing.org/vjbo/fulltext.cfm?uri=oe-18-5-5028) N. Olivier, et al. (2010)
 
-[4] [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944) J. Morizet, G. Sartorello, N. Dray, C. Stringari, E. Beaurepaire, N. Olivier  (2021)
+4 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944) J. Morizet, G. Sartorello, N. Dray, C. Stringari, E. Beaurepaire, N. Olivier  (2021)
 
 
 
