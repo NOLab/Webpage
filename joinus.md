@@ -1,17 +1,19 @@
 # Research Projects
 We are typically looking for Master student to work on the following projects (6 month), but undergraduate students are also welcomed to apply:
 
-- **Robust in-situ PSF estimation**: 
-- **Extended Depth of Field for nonlinear and super-resolved microscopy**: 
-- **Rational optimization of STORM buffers based on photophysical parameters (See more details below)** 
-- **Numerical Modelling of Coherent nonlinear microscopy**: (see also PhD offer)
+- **Rational optimization of STORM buffers based on photophysical parameters** (Experimental project See more details below)
+- **Numerical Modelling of Coherent nonlinear microscopy** (Computational project, see also PhD Projet)
+- **Robust in-situ PSF estimation** (Computational project)
+- **Extended Depth of Field for nonlinear and super-resolved microscopy** (Experimental project) 
 
 * * *
 
 # Master Projects
--**Rational optimization of STORM buffers based on photophysical parameters** 
+- **Rational optimization of STORM buffers based on photophysical parameters** 
 Single Molecule Localization Microscopy (SMLM) is a powerful method to achieve nanometer resolution in biological samples using a simple widefield optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on the buffer composition. We recently made some good progress on mutilcolor imaging [1,2], and now aim at improving the achievable resolution for some fluorophores by further tuning this buffer, using both ensemble and single molecule experiments to extract photophysical parameters.
 
+- **Extended Depth of Field for nonlinear and super-resolved microscopy**
+When looking at sparse objects, or when quantifying the overall concentration of a protein, it is sometimes usefull to degrade the axial resolution of a microscope to image a larger volume at once. Achieving this without degrading the lateral resolution is possible, and we will consider different experimental approach that rely on the coherence of the excitation and detected light, first in the case of super-resolution microscopy and if time allows for nonlinear microscopy.  
 * * *
 
 # PhD Project
