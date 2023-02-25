@@ -5,27 +5,28 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
-- 2023-01-05 Paper(s) accepted :)
+- **2023-01-05 Paper(s) accepted :)**
 
 Vaky's preprint from May 2022 is now [published in a Peer-reviewed Journal](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01249)
 
 Hadjer's work from 2021 (with some significant help from Beatrice Durel, Manon  Raimbault & Audrey Laurent @ Necker in 2022) on testing Slowfade Diamond for STORM imaging has finally been published: [Evaluation of Slowfade Diamond as a buffer for STORM microscopy](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-2-550)
 
-- 2022-12-22 New Preprint: 
+- **2022-12-22 New Preprint:**
 
 [Spatial modeling of telomere intra-nuclear distribution reveals non-random organization that varies during cell cycle and depends on LAP2 and BAF](https://www.biorxiv.org/content/10.1101/2022.12.22.521599v1.abstract) Debora Keller, Sonia Stinus, David Umlauf, Edith Gourbeyre, Eric Biot, Nicolas Olivier, Pierre Mahou, Emmanuel Beaurepaire, Philippe Andrey & Laure Crabbe (bioRxiv)
 
 
-- 2022-11-15
+- **2022-11-15:**
+
  Goodbye Twitter, Welcome Mastodon !
 
- - 2022-05-20 New paper: 
+ - **2022-05-20 New paper:**
   
  We present a new optimized buffer recipe for multicolor STORM imaging.  See [Vaky's preprint](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
 
 ![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
-3-color STORM  image of  alpha-Tubulin (CF-750),  Actin (Alexa-647), & Clathrin (CF-568) in our newly optimized buffer.
+3-color STORM  image of  alpha-Tubulin (Cyan, CF-750),  Actin (Gray, Alexa-647), & Clathrin (Yellow,CF-568) in our newly optimized buffer.
 
 * * *
 * * * 
