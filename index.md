@@ -19,9 +19,9 @@ Hadjer's work from 2021 (with some significant help from Beatrice Durel, Manon  
 - 2022-11-15
  Goodbye Twitter, Welcome Mastodon !
 
- - 2022-05-20 
-
-New paper: we present a new optimized buffer recipe for multicolor STORM imaging.  See [Vaky's preprint](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
+ - 2022-05-20 New paper: 
+  
+ We present a new optimized buffer recipe for multicolor STORM imaging.  See [Vaky's preprint](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) for more details
 
 ![Image](https://nolab.github.io/Webpage/images/TOC.png)
 
