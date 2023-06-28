@@ -7,10 +7,12 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 # News:
 
 - **2023-05-02 Paper accepted :)**
+
 Another  paper from Jospehine's PhD work has been published: [we use FDTD to accurately reproduce experimental measurements of THG from tubular structures](https://www.nature.com/articles/s41598-023-34528-7)  
 
 
 - **2023-02-15 New dataset**
+
 Looking for some nice raw datasets to test your STORM reconstruction algorithms ? I uploaded a bunch of old vectashield datasets (2D, 3D (astigmatism), low density, high density) to zenodo. See the new [dataset page](https://nolab.github.io/Webpage/dataset.html)
 
 - **2023-01-05 Paper(s) accepted :)**
