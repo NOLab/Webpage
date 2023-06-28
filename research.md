@@ -16,7 +16,7 @@ Most single molecule imaging is done on cells grown on glass to be in perfect im
 In collaboration with Roxane Lestini @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understanding of the DNA replication process to the nanoscale. In partiular, we are interrested in the relationship between the spatial distributions of different proteins involved in the replication process, and newly synthesized DNA.  See **[5]**
 
 # Coherent Nonlinear Microscopy
-Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6]**
+Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6,7]**
 
 
 # Other Interrests
@@ -44,3 +44,6 @@ Roxane Lestini,  Yoann Collien,  Debora Olivier,  Nicolas Olivier, & Hann
 
 ## Coherent Nonlinear Microscopy
 6 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
+
+7 -[Third harmonic imaging contrast from tubular structures in the presence of index discontinuity](https://www.nature.com/articles/s41598-023-34528-7) Josephine Morizet, Nicolas Olivier, Pierre Mahou, Arthur Boutillon, Chiara Stringari, & Emmanuel Beaurepaire (2023)
+
