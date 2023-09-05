@@ -3,9 +3,11 @@
 - Nicolas Olivier
 
 - Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB]
+
 Project: DNA replication at the nanoscale in Haloferax Volcanii
 
 - Kate Sorg (PhD track Student) 
+
 Project (with Roxane Lestini): Expansion Microscopy of Haloferax Volcanii
 
 # Past Members
