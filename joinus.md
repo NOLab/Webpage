@@ -8,10 +8,22 @@ We are typically looking for Master student to work on the following projects (6
 
 * * *
 
-# Master Projects
+# Master Projects (M1 or M2)
 - **Rational optimization of STORM buffers based on photophysical parameters** 
 
 Single Molecule Localization Microscopy (SMLM) is a powerful method to achieve nanometer resolution in biological samples using a simple widefield optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on the buffer composition. We recently made some good progress on mutilcolor imaging [1,2], and now aim at improving the achievable resolution for some fluorophores by further tuning this buffer, using both ensemble and single molecule experiments to extract photophysical parameters.
+
+- **Numerical simulations of pSHG microscopy in cornea.**
+
+Second harmonic generation (SHG) microscopy enables imaging of collagen without any labelling and with unequalled sensitivity in intact tissues. This is directly related to the property of SHG to be nonzero only in dense and non-centrosymmetrical materials. Nevertheless, the build-up of SHG is a complex issue because of its coherent nonlinear nature and of the heterogeneity of collagen distribution in tissues. Collagen is indeed organized as fibrils, which size and 3D organization is specific to each tissue (skin, artery, lung, bone…). Extracting as much information as possible about the structure of a tissue from SHG images is therefore an active research field. An effective method consists in varying the excitation polarization, which yields the collagen orientation in every pixel. Nevertheless, numerical simulations are needed to model this polarimetric SHG (pSHG) signal for realistic tissue geometries and reconstruct in a reliable way the collagen disctribution at sub-micrometer scale.
+This project aims at modeling pSHG in the Human cornea and compare these numerical simulations to pSHG images recorded recently by our group. Two approaches will be implemented, based on previous work at LOB [4]: 
+(i) a semi-analytical approach based on Green’s functions, which considers only nonlinear indices; 
+(ii) a full numerical approach using Finite Difference Time-Domain (FDTD) to take into account nanometer-scale heterogeneities in the refractive index that may affect the wave propagation. 
+The internship mainly aims at developing Green Function and FDTD pipelines for simulating the anisotropy of collagen fibrils and the heterogeneity of their 3D distribution.
+
+- **Super-resolved nonlinear Microscopy**
+
+Nonlinear microscopy is mostly used for live tissue imaging, and resolution is usually not the predominant preocupation. However, it is sometimes usefull to have the ability to zoom in on a particular biological process, hence the need to develop super*resolution approcahes. The aim of this project is to perform numerical simulation for different nonlnear process involving 2 different shaped beams, which should provide enough degrees of freedom to at least double the resolution (or to provide isotropic resolution).
 
 - **Extended Depth of Field for nonlinear and super-resolved microscopy**
 
@@ -20,12 +32,8 @@ When looking at sparse objects, or when quantifying the overall concentration of
 * * *
 
 # PhD Project
+Some of these projects described above could be continued as PhD  projects, contact me for more details. I have no funding available on my side, so the candidates would be expected to apply to the IPP graduate school fellowships. PhD Track students are welcome: [www.ip-paris.fr/education/phd-track/phd-track-physique](https://www.ip-paris.fr/education/phd-track/phd-track-physique)
 
-- **Title: Modeling Coherent Nonlinear Microscopy (THG,SHG)**
-- This project will be co-supervized by [Marie-Claire Schanne-Klein](https://portail.polytechnique.edu/lob/en/marie-claire-schanne-klein)
-- Funding Options: No funding is guaranteed, so the students would be expected to apply to the IPP graduate school fellowships. PhD Track students are welcome: [www.ip-paris.fr/education/phd-track/phd-track-physique](https://www.ip-paris.fr/education/phd-track/phd-track-physique)
-
-Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) relies on the intrinsic nonlinear properties of biological tissues to provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or zebrafish embryo to name a few studied in the Lab). However this comes at a cost: coherent nonlinear methods have highly non-trivial contrast mechanisms, and current modeling approaches [3] cannot reproduce some experimental measurements, preventing accurate quantification of the images. We recently demonstrated a new approach for THG microscopy based on the Finite Difference time-domain method [4], and the goal of this PhD is to develop this method to apply it more broadly to other types of nonlinear microscopy, and to further improve the method by taking into account more complex optical properties such as non-diagonal tensor elements.
 
 ### References:
 1 - [An Optimized Buffer for Repeatable Multicolor STORM](https://www.biorxiv.org/content/10.1101/2022.05.19.491818v1) Vaky Abdelsayed, Hadjer Boukhatem, & Nicolas Olivier (2022). Now also [peer-reviewed  (paywalled)](https://pubs.acs.org/doi/full/10.1021/acsphotonics.2c01249)
