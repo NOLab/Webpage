@@ -5,6 +5,9 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
+- **2023-10-10 New projects for 2024**
+
+Looking for a research project (M1,M2) in advanced microscopy for 2024 ? check out [the projects we offer](https://nolab.github.io/Webpage/joinus.html)
 
 - **2023-07-03 Welcome Reza**
 
