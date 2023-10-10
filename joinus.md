@@ -1,6 +1,6 @@
 
 # Master Projects (M1 or M2)
-- **Rational optimization of STORM buffers based on photophysical parameters ** (experimental) 
+- **Rational optimization of STORM buffers based on photophysical parameters** (experimental) 
 
 Single Molecule Localization Microscopy (SMLM) is a powerful method to achieve nanometer resolution in biological samples using a simple widefield optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on the buffer composition. We recently made some good progress on mutilcolor imaging [1,2], and now aim at improving the achievable resolution for some fluorophores by further tuning this buffer, using both ensemble and single molecule experiments to extract photophysical parameters.
 
