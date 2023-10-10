@@ -9,6 +9,11 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 Looking for a research project (M1,M2) in advanced microscopy for 2024 ? check out [the projects we offer](https://nolab.github.io/Webpage/joinus.html)
 
+ - **2022-09-20 New paper:**
+  
+Remember the paper we published in Januray ?  Here is an image of the sample, after more than 18 month in slowade diamond.
+![Image](https://nolab.github.io/Webpage/images/TOC.png)
+
 - **2023-07-03 Welcome Reza**
 
 [Mohammad Reza Farhadi-Nia](https://farhadinia.github.io/) is joining us for the summer to improve our FDTD code for coherent nonlinear microscopy.
