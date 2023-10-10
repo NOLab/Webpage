@@ -9,9 +9,9 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 Looking for a research project (M1,M2) in advanced microscopy for 2024 ? check out [the projects we offer](https://nolab.github.io/Webpage/joinus.html)
 
- - **2022-09-20 New paper:**
+ - **2022-09-20 New Image:**
   
-Remember the paper we published in Januray ?  Here is an image of the sample, after more than 18 month in slowade diamond. (Credit: Beatrice Durel)
+Remember the paper we published in January ?  Here is an image of the same sample as in figure 5, after more than 18 month in Slowade diamond. (Credit: Beatrice Durel)
 ![Image](https://nolab.github.io/Webpage/images/TubAF555SFD.png)
 
 - **2023-07-03 Welcome Reza**
