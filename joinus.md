@@ -17,16 +17,16 @@ The internship mainly aims at developing Green Function and FDTD pipelines for s
 
 - **Super-resolved nonlinear Microscopy** (computational) 
 
-Nonlinear microscopy is mostly used for live tissue imaging, and resolution is usually not the predominant preocupation. However, it is sometimes usefull to have the ability to zoom in on a particular biological process, hence the need to develop super*resolution approcahes. The aim of this project is to perform numerical simulation for different nonlnear process involving 2 different shaped beams, which should provide enough degrees of freedom to at least double the resolution (or to provide isotropic resolution).
+Nonlinear microscopy is mostly used for live tissue imaging, and resolution is usually not the predominant preoccupation. However, it is sometimes useful to have the ability to zoom in on a particular biological process, hence the need to develop super-resolution approaches. The aim of this project is to perform numerical simulation for different nonlinear processes involving 2 different shaped beams, which should provide enough degrees of freedom to at least double the resolution (or to provide isotropic resolution).
 
 - **Extended Depth of Field for nonlinear and super-resolved microscopy** (computational) 
 
-When looking at sparse objects, or when quantifying the overall concentration of a protein, it is sometimes usefull to degrade the axial resolution of a microscope to image a larger volume at once. Achieving this without degrading the lateral resolution is possible, and we will consider different experimental approach that rely on the coherence of the excitation and detected light, first in the case of super-resolution microscopy and if time allows for nonlinear microscopy.  
+When looking at sparse objects, or when quantifying the overall concentration of a protein, it is sometimes useful to degrade the axial resolution of a microscope to image a larger volume at once. Achieving this without degrading the lateral resolution is possible, and we will consider different experimental approach that rely on the coherence of the excitation and detected light, first in the case of super-resolution microscopy and if time allows for nonlinear microscopy.  
 
 
 
 # PhD Project
-Some of these projects described above could be continued as PhD  projects, contact me for more details. I have no funding available on my side, so the candidates would be expected to apply to the IPP graduate school fellowships. PhD Track students are welcome: [www.ip-paris.fr/education/phd-track/phd-track-physique](https://www.ip-paris.fr/education/phd-track/phd-track-physique)
+Some of these projects described above could provide the basis of a PhD  projects, contact me for more details. I have no funding available on my side, so the candidates would be expected to apply to the IPP graduate school fellowships. PhD Track students are welcome: [www.ip-paris.fr/education/phd-track/phd-track-physique](https://www.ip-paris.fr/education/phd-track/phd-track-physique)
 
 
 
