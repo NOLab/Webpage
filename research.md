@@ -2,7 +2,7 @@
 
 I have 2 main research interests: **Super Resolution (SR) Microscopy** and **Nonlinear (NL) Microscopy**
 
-# Super-Resolution Miroscopy by Single Molecule Localization
+# Super-Resolution Microscopy by Single Molecule Localization
 
 Single Molecule Localization Microscopy (**SMLM**) is a powerful method to achieve nanometer resolution in biological samples using a simple optical microscope. It relies on inducing stochastic blinking in the fluorophores used to label the structure of interest by using chemical buffers that affect their photophysics. Our aim is to develop methods to improve super-resolved tissue imaging by focusing on different technical developments: 
 
@@ -13,7 +13,7 @@ Although there has been steady progress in multicolor imaging since the inceptio
 Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-acquisition methods.
 
 ## Archaea Imaging
-In collaboration with Roxane Lestini @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understanding of the DNA replication process to the nanoscale. In partiular, we are interrested in the relationship between the spatial distributions of different proteins involved in the replication process, and newly synthesized DNA.  See **[5]**
+In collaboration with Roxane Lestini @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understanding of the DNA replication process to the nanoscale. In particular, we are interested in the relationship between the spatial distributions of different proteins involved in the replication process, and newly synthesized DNA.  See **[5]**
 
 # Coherent Nonlinear Microscopy
 Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6,7]**
@@ -24,8 +24,8 @@ Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG
 ## Expansion Microscopy
 [Kate](https://nolab.github.io/Webpage/alumni.html) is currently trying to adapt the [U-EXM protocol](https://www.nature.com/articles/s41592-018-0238-1) for Haloferax Volcanii.
 
-## Exptended Depth-of-Field Imaging
-I am interrested in different approaches to control the depth-of-field, both on the illumination side and detection side.
+## Extended Depth-of-Field Imaging
+I am interested in different approaches to control the depth-of-field, both on the illumination side and detection side.
 
 # References:
 
