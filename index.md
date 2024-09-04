@@ -5,6 +5,10 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
+- **2024-07-01 Welcome Enzo**
+
+ Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein 
+
 - **2024-04-30 HDR defended**
 
 I defended my "Habilitation a Diriger des recherches" on « Nonlinear Magic in the Biosciences: Multiphoton and Super-resolution Microscopy ».
