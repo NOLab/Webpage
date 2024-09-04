@@ -6,7 +6,7 @@
 
 Project: DNA replication at the nanoscale in Haloferax Volcanii
 
-- Tom Garniner (PhD Student) [co-supervised with Roxane Lestini, main supervisor: [Sebastien Ferreira Cerca](https://ferreiracercalab.com) @ BIOC]
+- Tom Garnier (PhD Student) [co-supervised with Roxane Lestini, main supervisor: [Sebastien Ferreira Cerca](https://ferreiracercalab.com) @ BIOC]
 
 Project: Ribosome biogenesis in Archeaea.
 
