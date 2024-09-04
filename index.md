@@ -5,6 +5,15 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
+-**2024-04-30 HDR defended **
+
+I defended my "Habilitation a Diriger des recherches" on « Nonlinear Magic in the Biosciences: Multiphoton and Super-resolution Microscopy ».
+Many thanks to the jury for accepting to judge my work.
+
+- **2024-04-19 Paper published :)**
+
+[Debora's preprint from 2022-12-22 is now published (open access)](https://www.cell.com/iscience/fulltext/S2589-0042(24)00564-9)
+
 - **2023-10-10 New projects for 2024**
 
 Looking for a research project (M1,M2) in advanced microscopy for 2024 ? check out [the projects we offer](https://nolab.github.io/Webpage/joinus.html)
