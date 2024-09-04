@@ -6,12 +6,20 @@
 
 Project: DNA replication at the nanoscale in Haloferax Volcanii
 
+- Tom Garniner (PhD Stdent) [co-supervisor with Roxane Lestini, main supervisor: [Sebastien Ferreira Cerca](https://ferreiracercalab.com) @ BIOC]
+
+Project: Ribosome biogenesis in Archeaea.
+
 - Kate Sorg (PhD track Student) 
 
 Project (with Roxane Lestini): Expansion Microscopy of Haloferax Volcanii
 
 # Past Members
 
+## 2024
+
+-Enzo Sichi (2A IOGS, Palaiseau)
+Project: Modeling PSHG microscopy at interfaces.
 
 ## 2023
 
