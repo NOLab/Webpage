@@ -5,7 +5,7 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
-- **2024-04-30 HDR defended **
+- **2024-04-30 HDR defended**
 
 I defended my "Habilitation a Diriger des recherches" on « Nonlinear Magic in the Biosciences: Multiphoton and Super-resolution Microscopy ».
 Many thanks to the jury for accepting to judge my work.
