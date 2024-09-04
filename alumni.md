@@ -18,7 +18,8 @@ Project (with Roxane Lestini): Expansion Microscopy of Haloferax Volcanii
 
 ## 2024
 
--Enzo Sichi (2A IOGS, Palaiseau)
+-Enzo Sichi (2A IOGS, Palaiseau)[co-supervised with Marie-Claire Schanne-Klein @ LOB]
+
 Project: Modeling PSHG microscopy at interfaces.
 
 ## 2023
