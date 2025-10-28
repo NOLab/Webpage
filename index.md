@@ -5,6 +5,17 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 * * *
 
 # News:
+
+
+- **2025-09-25 Congratulations Dorian**
+
+- Dorian Noury succesfully defended his thesis on the "Study of DNA replication dynamics of the polyploid archaeon Haloferax volcanii at the nanometer scale"
+
+- **2025-06-01 Welcome Romain**
+
+ Romain Caye, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein (Follow up from Enza's work last year)
+
+
 - **2024-07-01 Welcome Enzo**
 
  Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein 
