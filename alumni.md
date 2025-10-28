@@ -2,22 +2,18 @@
 
 - Nicolas Olivier
 
-- Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB]
-
-Project: DNA replication at the nanoscale in Haloferax Volcanii
-
 - Tom Garnier (PhD Student) [co-supervised with Roxane Lestini, main supervisor: [Sebastien Ferreira Cerca](https://ferreiracercalab.com) @ BIOC]
 
 Project: Ribosome biogenesis in Archeaea.
 
-- Kate Sorg (PhD Track Student) 
+- Kate Sorg (PhD  Student) [co-supervisor,  main supervisor: [Lionel Guitat](https://www.polytechnique.edu/en/directory/guittat-lionel) @ LOB]
 
-Project (with Roxane Lestini): Expansion Microscopy of Haloferax Volcanii
+Project: Investigation of G-Quadruplexes in Haloferax volcanii
 
 # Past Members
 
 ## 2025
-- Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB] Now Dr. Dorian Noury since Spetember 25th :)
+- Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB] Now Dr. Dorian Noury since September 25th :)
 
   Thesis: "Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique" (Link coming soon)
 
