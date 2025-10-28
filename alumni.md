@@ -16,6 +16,15 @@ Project (with Roxane Lestini): Expansion Microscopy of Haloferax Volcanii
 
 # Past Members
 
+## 2025
+- Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB] Now Dr. Dorian Noury since Spetember 25th :)
+
+  Thesis: "Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique" (Link coming soon)
+
+- Romain Caye (2A IOGS, Palaiseau)[co-supervised with Marie-Claire Schanne-Klein @ LOB]
+
+Project: Modeling PSHG microscopy of quasi-crystals.
+
 ## 2024
 
 - Enzo Sichi (2A IOGS, Palaiseau)[co-supervised with Marie-Claire Schanne-Klein @ LOB]
