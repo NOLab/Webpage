@@ -14,16 +14,16 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 - **2025-07-15 Paper published :)**
 
-[Josphine's paper on P-THG imaging of neurons is now published (open access)](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-7-1122)
+[Josephine's paper on P-THG imaging of neurons is now published (open access)](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-7-1122)
 
 - **2025-05-12 Welcome Romain**
 
- Romain Caye, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein (Follow up from Enzo's work last year)
+Romain Caye, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein (Follow up from Enzo's work last year)
 
 
 - **2024-07-01 Welcome Enzo**
 
- Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein 
+Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein 
 
 - **2024-04-30 HDR defended**
 
