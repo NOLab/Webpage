@@ -2,7 +2,7 @@
 
 - Nicolas Olivier
 
-- Tom Garnier (PhD Student) [co-supervised with Roxane Lestini, main supervisor: [Sebastien Ferreira Cerca](https://ferreiracercalab.com) @ BIOC]
+- Tom Garnier (PhD Student) [co-supervised with Roxane Lestini and [Sebastien Ferreira Cerca](https://ferreiracercalab.com) (main supervisor) @ BIOC]
 
 Project: Ribosome biogenesis in Archeaea.
 
@@ -15,7 +15,7 @@ Project: Investigation of G-Quadruplexes in Haloferax volcanii
 ## 2025
 - Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB] Now Dr. Dorian Noury since September 25th :)
 
-  Thesis: "Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique" (Link coming soon)
+Thesis: "Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique" (Link coming soon)
 
 - Romain Caye (2A IOGS, Palaiseau)[co-supervised with Marie-Claire Schanne-Klein @ LOB]
 
