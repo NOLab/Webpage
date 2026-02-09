@@ -8,7 +8,7 @@ Project: Ribosome biogenesis in Archeaea.
 
 - Kate Sorg (PhD  Student) [co-supervisor,  main supervisor: [Lionel Guitat](https://www.polytechnique.edu/en/directory/guittat-lionel) @ LOB]
 
-Project: Investigation of G-Quadruplexes in Haloferax volcanii
+Project: Investigation of G-Quadruplexes in Haloferax volcanii (see [This paper:](https://academic.oup.com/nar/article/54/4/gkag067/8462608) ) 
 
 # Past Members
 
