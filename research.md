@@ -13,10 +13,10 @@ Although there has been steady progress in multicolor imaging since the inceptio
 Most single molecule imaging is done on cells grown on glass to be in perfect imaging conditions and maximize the signal-to noise ratio. We want to move to tissue imaging by combining work on imaging buffers and dyes used, optical developments such as light-sheet illumination, and computational post-acquisition methods.
 
 ## Archaea Imaging
-In collaboration with Roxane Lestini, an [archaea](https://xkcd.com/3095/) expert @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understanding of the DNA replication process to the nanoscale. In particular, we are interested in the relationship between the spatial distributions of different proteins involved in the replication process, and newly synthesized DNA.  See **[5]**
+In collaboration with Roxane Lestini, an [archaea](https://xkcd.com/3095/) expert @ LOB, who previously [used live-SIM microscopy to study DNA replication and repair in Haloferax Volcanii](https://academic.oup.com/nar/article/46/20/10757/5096073) we are using STORM microscopy to further our understanding of the DNA replication process to the nanoscale. In particular, we are interested in the relationship between the spatial distributions of different proteins involved in the replication process, and newly synthesized DNA. We also help Lionel Guitat & Jean-Louis Mergny visualize G4 structures in Archea using SR microscopy. See **[5,6]**
 
 # Coherent Nonlinear Microscopy
-Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[6,7,8]**
+Coherent nonlinear microscopy techniques such as Second Harmonic Generation (SHG) or Third-Harmonic Generation (THG) provide 3D images of unstained biological tissues (such as skin, cornea, brain tissues or Zebrafish Embryo to name a few tissues studied at LOB), and can be used on their own or to provide context to multiphoton excited fluorescence images of specific markers of interest. In particular, our work focuses on quantitative modelling of THG microscopy, which has particularly complex contrast mechanisms, using numerical methods such as the Finite Difference Time-domain (FDTD) method. For recent progress on the topic, see **[7,8,9]**
 
 
 # Other Interrests
@@ -42,10 +42,13 @@ I am interested in different approaches to control the depth-of-field, both on t
 5 - [BrdU Incorporation and Labeling of Nascent DNA to Investigate Archaeal Replication Using Super-Resolution Imaging](https://hal.archives-ouvertes.fr/hal-03833442/)
 Roxane Lestini,  Yoann Collien,  Debora Olivier,  Nicolas Olivier, & Hannu Myllykallio (2022). Now also [peer-reviewed  (paywalled)](https://link.springer.com/protocol/10.1007/978-1-0716-2445-6_29)
 
+6 - [Archaeal G-quadruplexes: a novel model for understanding unusual DNA/RNA structures across the tree of life](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
+ Zackie Aktary, Kate Sorg, Anne Cucchiarini, Guglielmo Vesco, Dorian Noury, Rongxin Zhang, Thomas Jourdain, Daniela Verga, Pierre Mahou, Nicolas Olivier, Natália Bohálová, Otília Porubiaková, Václav Brázda, Marie Bouvier, Marta Kwapisz, Béatrice Clouet-d’Orval, Thorsten Allers, Roxane Lestini, Jean-Louis Mergny, and Lionel Guittat
+
 ## Coherent Nonlinear Microscopy
-6 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
+7 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
 
-7 -[Third harmonic imaging contrast from tubular structures in the presence of index discontinuity](https://www.nature.com/articles/s41598-023-34528-7) Josephine Morizet, Nicolas Olivier, Pierre Mahou, Arthur Boutillon, Chiara Stringari, & Emmanuel Beaurepaire (2023)
+8 -[Third harmonic imaging contrast from tubular structures in the presence of index discontinuity](https://www.nature.com/articles/s41598-023-34528-7) Josephine Morizet, Nicolas Olivier, Pierre Mahou, Arthur Boutillon, Chiara Stringari, & Emmanuel Beaurepaire (2023)
 
-8 - [Multiscale characterization of myelin distribution with polarized THG microscopy](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-7-1122)  Josephine Morizet, Nicolas Olivier, Marie-Stephane Aigrot, Pierre Mahou, Elodie Martin, Anne Desmazieres, Bruno Stankoff, Chiara Stringari, & Emmanuel Beaurepaire (2025)
+9 - [Multiscale characterization of myelin distribution with polarized THG microscopy](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-7-1122)  Josephine Morizet, Nicolas Olivier, Marie-Stephane Aigrot, Pierre Mahou, Elodie Martin, Anne Desmazieres, Bruno Stankoff, Chiara Stringari, & Emmanuel Beaurepaire (2025)
 
