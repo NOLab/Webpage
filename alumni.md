@@ -15,7 +15,7 @@ Project: Investigation of G-Quadruplexes in Haloferax volcanii
 ## 2025
 - Dorian Noury (PhD Student) [co-supervised with Roxane Lestini @ LOB] Now Dr. Dorian Noury since September 25th :)
 
-Thesis: "Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique" (Link coming soon)
+Thesis: ["Dynamique de la réplication de l'ADN de l'archée polyploïde Haloferax volcanii à l'échelle nanométrique"](https://theses.hal.science/tel-05407210v1/file/151777_NOURY_2025_archivage.pdf) 
 
 - Romain Caye (2A IOGS, Palaiseau)[co-supervised with Marie-Claire Schanne-Klein @ LOB]
 
