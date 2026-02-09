@@ -8,7 +8,7 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 - **2026-02-09 Paper Accepted, Congratulations Zaky & Kate !**
 
-[Zaky's preprint from 2024-01 on G4 structures in Archaea is now published, with some help from Kate for some further quantifications including STORM microscopy](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
+[Zaky's preprint from 2024-01 on G4 structures in Archaea is now published, with some help from Kate and Dorian for some further quantifications including STORM microscopy](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
 
 - **2025-09-25 Congratulations Dorian**
 
