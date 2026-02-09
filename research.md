@@ -43,7 +43,7 @@ I am interested in different approaches to control the depth-of-field, both on t
 Roxane Lestini,  Yoann Collien,  Debora Olivier,  Nicolas Olivier, & Hannu Myllykallio (2022). Now also [peer-reviewed  (paywalled)](https://link.springer.com/protocol/10.1007/978-1-0716-2445-6_29)
 
 6 - [Archaeal G-quadruplexes: a novel model for understanding unusual DNA/RNA structures across the tree of life](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
- Zackie Aktary, Kate Sorg, Anne Cucchiarini, Guglielmo Vesco, Dorian Noury, Rongxin Zhang, Thomas Jourdain, Daniela Verga, Pierre Mahou, Nicolas Olivier, Natália Bohálová, Otília Porubiaková, Václav Brázda, Marie Bouvier, Marta Kwapisz, Béatrice Clouet-d’Orval, Thorsten Allers, Roxane Lestini, Jean-Louis Mergny, and Lionel Guittat
+ Zackie Aktary, Kate Sorg, Anne Cucchiarini, Guglielmo Vesco, Dorian Noury, Rongxin Zhang, Thomas Jourdain, Daniela Verga, Pierre Mahou, Nicolas Olivier, Natália Bohálová, Otília Porubiaková, Václav Brázda, Marie Bouvier, Marta Kwapisz, Béatrice Clouet-d’Orval, Thorsten Allers, Roxane Lestini, Jean-Louis Mergny, and Lionel Guittat (2026)
 
 ## Coherent Nonlinear Microscopy
 7 - [Modeling nonlinear microscopy near index-mismatched interfaces](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-7-944&id=452614) Josephine Morizet, Giovanni Sartorello, Nicolas Dray, Chiara Stringari, Emmanuel Beaurepaire, & Nicolas Olivier (2021)
