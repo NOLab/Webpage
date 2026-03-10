@@ -8,9 +8,9 @@
 
 [Zaky's preprint from 2024-01 on G4 structures in Archaea is now published, with some help from Kate and Dorian for some further quantifications including STORM microscopy](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
 
-- **2025-09-25 Congratulations Dorian**
+- **2025-09-25 Congratulations Dorian !!!**
 
-- Dorian Noury succesfully defended his thesis on the "Study of DNA replication dynamics of the polyploid archaeon Haloferax volcanii at the nanometer scale"
+Dorian Noury succesfully defended his thesis on the "Study of DNA replication dynamics of the polyploid archaeon Haloferax volcanii at the nanometer scale"
   ![image](https://nolab.github.io/Webpage/images/1759392646677.jpg)
 
 - **2025-07-15 Paper published :)**
