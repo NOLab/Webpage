@@ -31,7 +31,7 @@ Project: Modeling PSHG microscopy at interfaces.
 
 - Mohammad Reza Farhadi-Nia (M1, University of Tehran)
 
-Project: Improved FDTD code for coherent nonlinear microscopy.
+Project: Improved FDTD code for coherent nonlinear microscopy. See [This pre-print:](https://arxiv.org/html/2603.06189v1)
 
 ## 2022
 
