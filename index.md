@@ -6,6 +6,9 @@ This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics a
 
 # News:
 
+- **2026-03-08 New Preprint **
+[Reza's work on using FDTD to model nonlinear microscopy with anisotropic materials is now online:](https://arxiv.org/html/2603.06189v1)
+
 - **2026-02-09 Paper Accepted, Congratulations Zaky & Kate !**
 
 [Zaky's preprint from 2024-01 on G4 structures in Archaea is now published, with some help from Kate and Dorian for some further quantifications including STORM microscopy](https://academic.oup.com/nar/article/54/4/gkag067/8462608)
