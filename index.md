@@ -1,9 +1,3 @@
-# Welcome !
-
-This is the webpage of Nicolas Olivier, CNRS Researcher at the [Lab for Optics and Biosciences](https://lob.ip-paris.fr/) at [Ecole Polytechnique](https://www.polytechnique.edu/).
-
-* * *
-
 # News:
 
 - **2026-03-08 New Preprint**
