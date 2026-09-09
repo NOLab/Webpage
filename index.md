@@ -1,4 +1,11 @@
 # News:
+- **2026-09-04 New Preprint**
+
+Dorian's work on DNA replication in Haloferax volcanii is now [online on biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.02.748831v1.abstract)
+
+- **2026-08-01 Paper Accepted, Congratulations Stella**
+
+Stella Dees' work on ["Resonant third harmonic generation in biological pigments"](https://pubs.aip.org/aip/app/article/11/8/086116/3401132) is now online (open access)
 
 - **2026-03-08 New Preprint**
 
@@ -10,7 +17,7 @@
 
 - **2025-09-25 Congratulations Dorian !!!**
 
-Dorian Noury succesfully defended his thesis on the "Study of DNA replication dynamics of the polyploid archaeon Haloferax volcanii at the nanometer scale"
+Dorian Noury successfully defended his thesis on the "Study of DNA replication dynamics of the polyploid archaeon Haloferax volcanii at the nanometer scale"
   ![image](https://nolab.github.io/Webpage/images/1759392646677.jpg)
 
 - **2025-07-15 Paper published :)**
@@ -19,12 +26,12 @@ Dorian Noury succesfully defended his thesis on the "Study of DNA replication dy
 
 - **2025-05-12 Welcome Romain**
 
-Romain Caye, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein (Follow up from Enzo's work last year)
+Romain Caye, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Schanne-Klein (Follow up from Enzo's work last year)
 
 
 - **2024-07-01 Welcome Enzo**
 
-Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Shanne-Klein 
+Enzo Sichi, a second year student from IOGS joined the lab for a summer project on SHG modeling with Marie-Claire Schanne-Klein 
 
 - **2024-04-30 HDR defended**
 
