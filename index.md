@@ -9,7 +9,7 @@ Stella Dees' work on ["Resonant third harmonic generation in biological pigments
 
 - **2026-03-08 New Preprint**
 
-[Reza's work on using FDTD to model nonlinear microscopy with anisotropic materials is now online:](https://arxiv.org/html/2603.06189v1)
+[Reza's work on using FDTD to model nonlinear microscopy with anisotropic materials is now online:](https://arxiv.org/html/2603.06189v1) (arXiv)
 
 - **2026-02-09 Paper Accepted, Congratulations Zaky & Kate !**
 
