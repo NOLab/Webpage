@@ -1,7 +1,7 @@
 # News:
 - **2026-09-04 New Preprint**
 
-Dorian's work on DNA replication in Haloferax volcanii is now [online on biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.02.748831v1.abstract)
+Dorian's work on DNA replication in Haloferax volcanii, with a contribution from Titouan d'Yvoir & Ulrike Endesfelder at Bonn is now [online on biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.02.748831v1.abstract)
 
 - **2026-08-01 Paper Accepted, Congratulations Stella**
 
