@@ -1,4 +1,8 @@
 # News:
+- **2025-10-01 Paper published :)**
+
+Reza's work on [using FDTD to model nonlinear microscopy with anisotropic materials][https://arxiv.org/html/2603.06189v1](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-20-38325) is now published (open access)
+
 - **2026-09-04 New Preprint**
 
 Dorian's work on DNA replication in Haloferax volcanii, with a contribution from Titouan d'Yvoir & Ulrike Endesfelder at Bonn is now [online on biorxiv](https://www.biorxiv.org/content/10.64898/2026.09.02.748831v1.abstract)
