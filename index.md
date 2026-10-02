@@ -1,7 +1,7 @@
 # News:
 - **2026-10-01 Paper published :)**
 
-Reza's work on [using FDTD to model nonlinear microscopy with anisotropic materials][https://arxiv.org/html/2603.06189v1](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-20-38325) is now published (open access)
+Reza's work on [using FDTD to model nonlinear microscopy with anisotropic materials](https://opg.optica.org/oe/fulltext.cfm?uri=oe-34-20-38325) is now published (open access)
 
 - **2026-09-04 New Preprint**
 
